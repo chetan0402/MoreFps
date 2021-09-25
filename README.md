@@ -6,5 +6,5 @@ A performance Mod
 
 Replace the 2 in -Xmx2G with half the size or your ram. For example:- If u have 8gb ram then put -Xmx4G instead of -Xmx2G
 
-#DO NOT'S
+# DO NOT'S
 Do not use this mod with a mod named FoamFix, these mods together somehow lower the fps by a great amount
