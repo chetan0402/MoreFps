@@ -2,7 +2,7 @@
 A performance Mod
 Defualt keybind:- 0
 
-I recommend using [Chroma HUD 3.0](https://cdn.discordapp.com/attachments/869192765832065094/891314688963530752/ChromaHUD-3.0_1.8.9.jar) for hud
+I recommend using [Chroma HUD 3.0(lite)](https://github.com/chetan0402/ChromaHUD/releases/download/Download/ChromaHUD-3.0.jar) for hud
 
 # Suggested Java Args:-
 -Xmx2G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M
